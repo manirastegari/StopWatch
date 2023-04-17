@@ -1,12 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
 
 body {
+    text-align: center;
     background-color: #edeaff;
-    font-family: 'Courier Prime', monospace;
+    font-family: 'Lora', serif;
     }
-
-h1, p {
-    font-size: 4rem;
+    
+    footer {
+        font-size: 1.1rem;
+        padding-top: 15px;
     }
     .stopwatch {
         width: 90%;
@@ -42,3 +45,4 @@ h1, p {
     .buttons img:nth-child(2) {
         width: 80px;
     }
+    
