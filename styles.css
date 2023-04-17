@@ -1,7 +1,9 @@
 body {
-    background-color: aquamarine;
-}
+    background-color: rgb(27, 85, 130);
+    }
 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: aliceblue;
-}
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: 3rem;
+    text-shadow: 3px 3px black;
+    }
