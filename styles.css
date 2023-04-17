@@ -1,9 +1,9 @@
 body {
     background-color: rgb(27, 85, 130);
     }
-h1 {
+h1, p {
     font-family: 'Times New Roman', Times, serif;
-    color: #fff;
+    color: gray;
     font-size: 3rem;
     text-shadow: 2px 3px black;
     }
